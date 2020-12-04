@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Back4AppExample</string>
+
+
+    <string name="parse_server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <string name="parse_app_id" translatable="false">PASTE_YOUR_APPLICATION_ID_HERE</string>
+    <string name="parse_client_key" translatable="false">PASTE_YOUR_CLIENT_KEY_HERE</string>
+
 </resources>
