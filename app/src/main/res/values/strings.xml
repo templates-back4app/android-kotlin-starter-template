@@ -3,7 +3,7 @@
 
 
     <string name="parse_server_url" translatable="false">https://parseapi.back4app.com/</string>
-    <string name="parse_app_id" translatable="false">PASTE_YOUR_APPLICATION_ID_HERE</string>
-    <string name="parse_client_key" translatable="false">PASTE_YOUR_CLIENT_KEY_HERE</string>
+    <string name="parse_app_id" translatable="false">hGDY8Tjt7OTGojoXZVquMFPdlvpLe3CkQXnE8hEY</string>
+    <string name="parse_client_key" translatable="false">IEIAs9FPEGJNWL2UZ1oTZdc0P4XEUK7YvcVdvckD</string>
 
 </resources>
