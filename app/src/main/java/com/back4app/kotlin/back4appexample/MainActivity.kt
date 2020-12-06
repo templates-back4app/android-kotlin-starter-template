@@ -12,13 +12,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Parse.initialize(
-            Parse.Configuration.Builder(this)
-            .applicationId(getString(R.string.parse_app_id))
-            .clientKey(getString(R.string.parse_client_key))
-            .server(getString(R.string.parse_server_url))
-            .build());
-
         val textView = findViewById<TextView>(R.id.textView)
 
         val firstObject = ParseObject("FirstClass")
